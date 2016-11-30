@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vector Drawable</string>
+
+    <string name="vector_drawable">Vector Drawable</string>
+    <string name="png">PNG</string>
+    <string name="duration">Rendering duration: %.3f(milliseconds)</string>
+</resources>
